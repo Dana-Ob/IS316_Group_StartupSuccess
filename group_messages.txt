@@ -1,0 +1,3 @@
+IS316 - Startup Success Group
+
+Dana: Git helps us track changes in out data science projects and more.
