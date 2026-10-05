@@ -1,3 +1,4 @@
 IS316 - Startup Success Group
 
 Dana: Git helps us track changes in out data science projects and more.
+Sadeem: Git helps us collaborate efficiently on our project.
